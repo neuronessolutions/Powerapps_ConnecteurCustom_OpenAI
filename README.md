@@ -1,6 +1,9 @@
 # Powerapps_ConnecteurCustom_OpenAI
 Connecteur personnalisé OpenAI pour applications PowerApps
 
+Le source est livré si vous ne voulez pas reproduire le mode opératoire plus bas :)
+[OpenAi-Connecteur.swagger.json](/OpenAi-Connecteur.swagger.json)
+
 ## Création Pas à pas du connecteur personnalisé OpenAI pour intégrer des fonctions d'OpenAI dans les applications PowerApps
 Dans PowerApps, choisir "Connecteurs personnalisés" et cliquez sur **"Nouveau connecteur personnalisé"**, puis sur "Créer à partir de zéro"
 ![Capture d’écran, le 2023-09-26 à 14 42 35](https://github.com/nuage365/Powerapps_ConnecteurCustom_OpenAI/assets/102873102/66aa2f67-feac-4c75-80f3-786b53b900db)
