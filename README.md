@@ -131,6 +131,10 @@ Dans PowerFx, sur le "OnSelect" du bouton le code pourrait ressembler à cela :
 >
 >Reset(TextInput1)
 
+
+Comme d'habitude, si vous avez des questions, n'hésitez pas à me contacter sur mon linkedin :)
+[Dominique Delaire](https://www.linkedin.com/in/dominiquedelaire/)
+
 Ici, on lance donc l'opération APIChat de notre connecteur personnalisé et on va récupérer le premier message de notre requête dans une collection afin d'afficher cela dans notre gallerie :)
 
 
