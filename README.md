@@ -1,6 +1,9 @@
 # Powerapps_ConnecteurCustom_OpenAI
 Connecteur personnalisé OpenAI pour applications PowerApps
 
+Auteur : Dominique Delaire
+
+
 Le source est livré si vous ne voulez pas reproduire le mode opératoire plus bas :)
 [OpenAi-Connecteur.swagger.json](/OpenAi-Connecteur.swagger.json)
 
